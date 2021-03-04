@@ -55,7 +55,7 @@ piblic (int,int) Swap(a,b)
 }
 ~~~
 
-
+---
 ## 5. Experience ## 
   1. Epam training .Net |  03.2020-09.2020
   2. Clevertec training JS | 09.2020-11.2020
