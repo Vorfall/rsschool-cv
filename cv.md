@@ -43,3 +43,26 @@
     4. Development for andoid(kotlin)
 
 ---
+
+## 4. Code example ##
+~~~
+piblic (int,int) Swap(a,b)
+{
+    a = a ^ b; 
+    b = b ^ a; 
+    a = a ^ b;
+    return(a,b)
+}
+~~~
+
+
+## 5. Experience ## 
+  1. Epam training .Net |  03.2020-09.2020
+  2. Clevertec training JS | 09.2020-11.2020
+
+## 6. Education
++ GGTU named after "PO Sukhoi" | Engineer System-Programmer
+    - 2018-2022
+
+## 7. English
++ A2
