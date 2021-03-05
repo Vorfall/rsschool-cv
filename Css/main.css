@@ -1,15 +1,23 @@
-*{
+header{
     margin:0;
     padding:0;
-    text-align: center;
+    text-align:center;
 }
 .logo img{
     padding: 1%;
-    height: 200px; /*125px*/   
+    height: 250px; 
 }
 #Name{
-    font-size: 2.8em;
+    font-size: 3.3em;
 }
 #Contact{
-    padding:3%;
+    padding:0%;
+    
+}
+#Heading{
+    padding:0.2px;
+
+}
+p{
+    font-size: 1.3em;
 }
