@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.logo img{
+    padding: 1%;
+    height: 250px; 
+}
+
+#Name{
+    font-size: 3.3em;
+}
+#Contact{
+    padding:0%;
+    
+}
+#Heading{
+    padding:0.2px;
+
+}
+p{
+    font-size: 1.3em;
+}
